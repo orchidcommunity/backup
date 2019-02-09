@@ -1,0 +1,6 @@
+{
+  "Backups": "Резервні копії",
+  "Enable task queue to backup.": "Увімкніть підтримку черги задач для резервного копіювання.",
+  "The task has been added to the queue.": "Завдання додано до черги.",
+  "Necessary for the ability to quickly recover information in case of loss of a working copy.": "Необхідно для можливості швидкого відновлення інформації в разі втрати робочої копії."
+}

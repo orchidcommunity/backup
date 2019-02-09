@@ -1,0 +1,11 @@
+{
+  "Backups": "Резервное копирование",
+  "Enable task queue to backup.": "Для резервного копирования необходимо включить очередь задач.",
+  "The task has been added to the queue.": "Задача была добавлена в очередь.",
+  "Necessary for the ability to quickly recover information in case of loss of a working copy.": "Необходимо для возможности быстрого восстановления информации в случае потери рабочей копии.",
+  "Last change": "Последнее изменение",
+  "Path": "Путь",
+  "Disk": "Хранилище",
+  "Size": "Размер",
+  "List of files to download" : "Архивные файлы для загрузки"
+}
