@@ -1,6 +1,6 @@
 {
     "name": "orchidcommunity/backup",
-    "description": "",
+    "description": "Graphic wrapper over the spatie/laravel-backup package for laravel orchid, allowing you to play and view backups",
     "keywords": [
         "orchid",
         "backup"
